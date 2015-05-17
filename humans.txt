@@ -5,7 +5,7 @@
     Location: London, United Kingdom
 				
     /* THANKS */					
-    Name: name or url
+    Name: https://github.com/rhc2104/sqlteaching
                   
     /* SITE */                  
     Last update: 2015/05/17                
