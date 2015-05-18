@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://sqlogren.karanfil.info/#!select</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!where_equals</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!where_greater_than</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!where_greater_than_or_equal</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!select_columns</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!and</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!in</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!distinct</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!order_by</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!limit</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!count</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!count_where</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!sum</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!avg</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!max_min</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!group_by</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!nested</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!null</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!date</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!joins</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!multiple_joins</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!joins_with_where</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!left_joins</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!table_alias</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!column_alias</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!self_join</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!like</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!case</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!substr</loc>
+</url>
+<url>
+  <loc>https://sqlogren.karanfil.info/#!coalesce</loc>
+</url>
+</urlset>
